@@ -1,4 +1,4 @@
-#Web Application Security Lab
+<h1>Web Application Security Lab</h1>
 Welcome to the Web Application Security Lab repository! This repository contains a comprehensive document that guides you through a hands-on lab experience focusing on various web application vulnerabilities and their mitigation techniques. The document covers practical exercises, explanations, and step-by-step instructions to explore and understand common security vulnerabilities in web applications.
 
 #Lab Description
